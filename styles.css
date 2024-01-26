@@ -17,12 +17,12 @@
         justify-content: center;
     }
 
-    #green{
+    .green{
         background-color: green;
     }
-    #red{
+    .red{
         background-color: red;
     }
-    #yellow{
+    .yellow{
         background-color: yellow;
     }
